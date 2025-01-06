@@ -1,6 +1,6 @@
 import React from 'react';
 
-const Hero = () => {
+const GetStarted = () => {
   return (
     <section className="bg-black text-white text-center flex flex-col justify-center items-center h-72 animate__animated animate__fadeIn">
       <h2 className="text-4xl md:text-5xl font-bold mb-5 animate__animated animate__fadeIn animate__delay-1s">Create forms in minutes with FormX AI</h2>
@@ -10,4 +10,4 @@ const Hero = () => {
   );
 };
 
-export default Hero;
+export default GetStarted;
